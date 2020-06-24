@@ -1,0 +1,17 @@
+{
+  "extensions":{
+    "klaviyo": {
+      "apiKey": "__YOUR_PRIVATE_KEY__",
+      "apiUrl": "https://a.klaviyo.com/api",
+      "listId": "__NEWSLETTER_LIST_ID__",
+      "multistoreListIds": {
+        "es": "__ES_LIST_ID__",
+        "eu": "__EU_LIST_ID__",
+        "it": "__IT_LIST_ID__"
+      }
+    }
+  },
+  "registeredExtensions": [
+    "vsf-api-klaviyo"
+  ]
+}
