@@ -11,3 +11,8 @@ git clone git@github.com:AbsoluteWebServices/vsf-api-klaviyo.git ./vue-storefron
 ```
 
 Add the config from local.json to your api config. If you want to use different lists for multistore you need to add all list ids to **multistoreListIds**.
+
+
+## Klaviyo VSF Module
+
+VSF Module for this extension: [vsf-klaviyo](https://github.com/AbsoluteWebServices/vsf-klaviyo).
